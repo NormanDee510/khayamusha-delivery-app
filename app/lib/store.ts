@@ -89,7 +89,7 @@ const mockRestaurants: Restaurant[] = [
   {
     id: 1,
     name: "Mama Africa Kitchen",
-    image: "/placeholder.svg?height=100&width=100",
+    image: "../../public/istockphoto-1175505781-1024x1024.jpg",
     cuisine: "African",
     deliveryTime: "25-35 min",
     rating: 4.7,
@@ -99,7 +99,7 @@ const mockRestaurants: Restaurant[] = [
   {
     id: 2,
     name: "Spice Route",
-    image: "/placeholder.svg?height=100&width=100",
+    image: "../../public/istockphoto-2032134594-1024x1024.jpg",
     cuisine: "Indian",
     deliveryTime: "30-40 min",
     rating: 4.5,
@@ -109,7 +109,7 @@ const mockRestaurants: Restaurant[] = [
   {
     id: 3,
     name: "Cape Vineyard Bistro",
-    image: "/placeholder.svg?height=100&width=100",
+    image: "../../public/ophelie-bonavita-IoQr7epXYTo-unsplash.jpg",
     cuisine: "Mediterranean",
     deliveryTime: "20-30 min",
     rating: 4.8,
